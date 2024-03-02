@@ -1,0 +1,7 @@
+{
+    "accessibility.verbosity.comments": true,
+    "editor.comments.ignoreEmptyLines": true,
+    "editor.comments.insertSpace": false,
+    "comments.collapseOnResolve": true,
+    "comments.visible": true
+}
